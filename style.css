@@ -1,0 +1,32 @@
+.card{
+    box-shadow: 1px 1px 1px 1px blueviolet;
+    height: 35em;
+}
+.header{
+    height: 15em;
+    background-image: url('images/banner.webp');
+    background-size: cover;
+    margin-bottom: 20px;
+}
+.textinside{
+    text-align: center;
+    padding-top: 5%;
+    font-size: 25px;
+}
+.form{
+    padding-top: 10px;
+}
+.form-control{
+    padding: 3px;
+}
+.imgcls{
+    height: inherit;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 50%; */
+}
+.process{
+    height: 21em;
+    margin-top:5px;
+}
